@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hy-mouse-educional-pc.Plugins", "hy-mouse-educional-pc.Plugins.csproj", "{42C1F470-1E4F-B2C1-E23D-36EE40B02401}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hy-mouse-educional-pc", "hy-mouse-educional-pc.csproj", "{3687CC2F-A0A2-FF22-2C63-885697364CC7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hy-mouse-educional-pc.Editor.Plugins", "hy-mouse-educional-pc.Editor.Plugins.csproj", "{008D7A23-FB34-FE03-2E17-C79FF30B554A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{42C1F470-1E4F-B2C1-E23D-36EE40B02401}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42C1F470-1E4F-B2C1-E23D-36EE40B02401}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42C1F470-1E4F-B2C1-E23D-36EE40B02401}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42C1F470-1E4F-B2C1-E23D-36EE40B02401}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3687CC2F-A0A2-FF22-2C63-885697364CC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3687CC2F-A0A2-FF22-2C63-885697364CC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3687CC2F-A0A2-FF22-2C63-885697364CC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3687CC2F-A0A2-FF22-2C63-885697364CC7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{008D7A23-FB34-FE03-2E17-C79FF30B554A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{008D7A23-FB34-FE03-2E17-C79FF30B554A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{008D7A23-FB34-FE03-2E17-C79FF30B554A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{008D7A23-FB34-FE03-2E17-C79FF30B554A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
